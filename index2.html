@@ -1,0 +1,36 @@
+﻿<html>
+	<head>
+	<script>
+		// request permission on page load
+		document.addEventListener('DOMContentLoaded', function () {
+		  if (!Notification) {
+			alert('Desktop notifications not available in your browser. Try Chromium.'); 
+			return;
+		  }
+
+		  if (Notification.permission !== "granted")
+			Notification.requestPermission();
+		});
+
+		function notifyMe() {
+		  if (Notification.permission !== "granted")
+			Notification.requestPermission();
+		  else {
+			var notification = new Notification('Thông báo', {
+			  icon: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIvAZdjkXa4HJx5zI7W22a0JaxJg8ete5XGA1ZLJ-G5Bp4dLpb',			  
+			  body: "Xin chào, bạn có một thông báo mới!",
+			});
+
+			notification.onclick = function () {
+			  window.open("http://google.com.vn/");      
+			};
+
+		  }
+
+		}
+	</script>
+	</head>
+	<body>
+	<button onclick="notifyMe()">Notify me!</button>
+	</body>
+</html>

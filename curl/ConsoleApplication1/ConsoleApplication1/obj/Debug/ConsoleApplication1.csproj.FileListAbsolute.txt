@@ -1,0 +1,9 @@
+F:\CongViec\TestNotify\curl\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\CongViec\TestNotify\curl\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\CongViec\TestNotify\curl\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\CongViec\TestNotify\curl\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\CongViec\TestNotify\curl\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\CongViec\TestNotify\curl\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\CongViec\GitHub\TestNotify\curl\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\CongViec\GitHub\TestNotify\curl\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\CongViec\GitHub\TestNotify\curl\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
